@@ -1,3 +1,6 @@
+/**
+ * The convergence may not be optimal (try 80 for example). I worked around some issues by using a ceiling rounded div by 2.
+ */
 input.onButtonPressed(Button.A, function () {
     Result = 1
 })
